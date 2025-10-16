@@ -7,6 +7,7 @@ I have not tested it with any other Distro or OS.
 # Example
 <img width="2560" height="1600" alt="example" src="https://github.com/user-attachments/assets/f268fa17-ef76-46ce-bdba-f83b3473a45f" />
 <img width="2560" height="1600" alt="Screenshot_20251016_120415" src="https://github.com/user-attachments/assets/0cf3c9a3-ac7f-4d28-9bca-227ad0d4bb0a" />
+
 # Installation
 1. Find the directory of your packet tracer in your linux distro, usually in /lib/packettracer/
 2. Locate the directory named art, create a backup for it in the directory
