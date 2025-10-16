@@ -1,5 +1,5 @@
 # What is it?
-A repository to support dark mode on Packet Tracer for linux.
+A repository to support dark mode on Packet Tracer for KDE Arch Linux.
 # Installation
 1. Find the directory of your packet tracer in your linux distro, usually in /lib/packettracer/
 2. Locate the directory named art, create a backup for it in the directory
