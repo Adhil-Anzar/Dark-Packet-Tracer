@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<ns:svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 48 48"
+   style="enable-background:new 0 0 48 48;"
+   xml:space="preserve"
+   sodipodi:docname="cluster-association-dialog.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs25" /><sodipodi:namedview
+   id="namedview25"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="21.104167"
+   inkscape:cx="27.127345"
+   inkscape:cy="21.536032"
+   inkscape:window-width="2048"
+   inkscape:window-height="1255"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<ns:style
+   type="text/css"
+   id="style1">
+	.st0{fill:#39393B;}
+	.st1{fill:#39393B;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+</ns:style>
+<ns:path fill="#dbdbdf"
+   class="st0"
+   d="M45,1.1H3c-1.2,0-2.1,0.9-2.1,2v42c0,1.2,0.9,2.1,2.1,2.1h42c1.2,0,2.1-0.9,2.1-2.1v-42C47.1,2,46.1,1.1,45,1.1  z M5.1,43V11.5h37.8V43H5.1z"
+   id="path1"
+   style="fill:#dbdbdf;fill-opacity:1" />
+<ns:path fill="#dbdbdf"
+   class="st0"
+   d="M42.2,30.7c0-3.8-2.7-7-6.1-7.8c0-0.2,0-0.4,0-0.6c0-4.6-3.6-8.1-8-8.1c-3.5,0-6.4,2.2-7.5,5.3  c-0.8-0.4-1.8-0.7-2.8-0.7c-3.4,0-6.1,2.7-6.1,6.1c0,0.2,0,0.5,0.1,0.7h-0.1l0,0c-3.4,0.2-6.1,3-6.1,6.5s2.7,6.3,6.1,6.5l0,0h23l0,0  C38.8,38.5,42.2,35.1,42.2,30.7z"
+   id="path2"
+   style="fill:#dbdbdf;fill-opacity:1" />
+<ns:g
+   id="Router_4_"
+   style="fill:#dbdbdf;fill-opacity:1">
+	<ns:path fill="#dbdbdf"
+   id="Base_4_"
+   class="st1"
+   d="M23.3,23.7v3c0,0,0.8,1.7,5.4,1.7s4.8-1.6,4.8-1.6V24L23.3,23.7z"
+   style="fill:#dbdbdf;fill-opacity:1" />
+	<ns:ellipse fill="#dbdbdf"
+   id="Top_4_"
+   class="st1"
+   cx="28.4"
+   cy="23.5"
+   rx="5.1"
+   ry="2.2"
+   style="fill:#dbdbdf;fill-opacity:1" />
+	<ns:g fill="#dbdbdf"
+   id="g4"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g3"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="29.9"
+   y1="23.8"
+   x2="31.9"
+   y2="24.2"
+   id="line2"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g2"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="30,24.6 28.9,23.6 30.3,23.2     "
+   id="polygon2"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g7"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g6"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="27"
+   y1="23.2"
+   x2="25.1"
+   y2="22.6"
+   id="line4"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g5"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="26.9,22.4 28.1,23.4 26.7,23.8     "
+   id="polygon4"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g10"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g9"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="27.9"
+   y1="24.3"
+   x2="28.4"
+   y2="23.7"
+   id="line7"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g8"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="28.5,24.7 27.1,25 27.4,23.7     "
+   id="polygon7"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g13"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g12"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="29.1"
+   y1="22.6"
+   x2="28.5"
+   y2="23.4"
+   id="line10"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g11"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="28.4,22.3 29.9,21.9 29.5,23.4     "
+   id="polygon10"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+</ns:g>
+<ns:g
+   id="Router_3_"
+   style="fill:#dbdbdf;fill-opacity:1">
+	<ns:path fill="#dbdbdf"
+   id="Base_3_"
+   class="st1"
+   d="M13.4,31.1v3c0,0,0.8,1.7,5.4,1.7s4.8-1.6,4.8-1.6v-2.8L13.4,31.1z"
+   style="fill:#dbdbdf;fill-opacity:1" />
+	<ns:ellipse fill="#dbdbdf"
+   id="Top_3_"
+   class="st1"
+   cx="18.5"
+   cy="30.9"
+   rx="5.1"
+   ry="2.2"
+   style="fill:#dbdbdf;fill-opacity:1" />
+	<ns:g fill="#dbdbdf"
+   id="g16"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g15"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="20"
+   y1="31.3"
+   x2="21.9"
+   y2="31.7"
+   id="line13"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g14"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="20.1,32 18.9,31.1 20.3,30.7     "
+   id="polygon13"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g19"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g18"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="17.1"
+   y1="30.7"
+   x2="15.1"
+   y2="30.1"
+   id="line16"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g17"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="17,29.8 18.1,30.8 16.7,31.3     "
+   id="polygon16"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g22"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g fill="#dbdbdf"
+   id="g21"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="17.9"
+   y1="31.7"
+   x2="18.5"
+   y2="31.1"
+   id="line19"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g20"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="18.6,32.1 17.1,32.5 17.5,31.1     "
+   id="polygon19"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+	<ns:g
+   id="g25"
+   style="fill:#dbdbdf;fill-opacity:1">
+		<ns:g
+   id="g24"
+   style="fill:#dbdbdf;fill-opacity:1">
+			<ns:line fill="#dbdbdf"
+   class="st2"
+   x1="19.2"
+   y1="30.1"
+   x2="18.6"
+   y2="30.8"
+   id="line22"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			<ns:g fill="#dbdbdf"
+   id="g23"
+   style="fill:#dbdbdf;fill-opacity:1">
+				<ns:polygon fill="#dbdbdf"
+   class="st3"
+   points="18.5,29.8 19.9,29.4 19.6,30.8     "
+   id="polygon22"
+   style="fill:#dbdbdf;fill-opacity:1" />
+			</ns:g>
+		</ns:g>
+	</ns:g>
+</ns:g>
+</ns:svg>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<ns0:style type="text/css">
+	.st0{fill:none;stroke-miterlimit:10;stroke-dasharray:16.35,5.45;}
+	.st1{fill:none;stroke-miterlimit:10;}
+	.st2{stroke-miterlimit:10;}
+</ns0:style>
+<ns0:g>
+	<ns0:line class="st0" stroke="#DBDBDB" stroke-width="4" x1="32.3" y1="31.8" x2="13.2" y2="31.8" />
+	<ns0:polyline class="st1" stroke="#DBDBDB" stroke-width="4" points="10.5,31.8 3,31.8 3,24.3  " />
+	<ns0:polyline class="st1" stroke="#DBDBDB" stroke-width="4" points="3,12.3 3,4.8 10.5,4.8  " />
+	<ns0:line class="st0" stroke="#DBDBDB" stroke-width="4" x1="15.9" y1="4.8" x2="35" y2="4.8" />
+	<ns0:polyline class="st1" stroke="#DBDBDB" stroke-width="4" points="37.8,4.8 45.3,4.8 45.3,12.3  " />
+</ns0:g>
+<ns0:path class="st2" fill="#DBDBDB" stroke="#DBDBDB" d="M46.8,36.2L41,28.4l3.9-2.9c0.5-0.4,0.4-0.8-0.2-1l-10-3.5L35,31.8c0,0.6,0.4,0.8,0.9,0.4l3.9-2.9l5.8,7.8  c0.3,0.4,0.8,0.5,1.2,0.2C47,37.1,47.1,36.5,46.8,36.2z" />
+</ns0:svg>
