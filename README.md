@@ -7,6 +7,6 @@ You must use some form of dark mode as your plasma global theme in order for thi
 2. Locate the directory named art, create a backup for it in the directory
 3. Replace this art with the files given in the repo
 4. Startup packet tracer and, go to preferences (Ctrl+R), set the color scheme to No Theme
-5. Optional: if you wish to have a black background download the given image and set it as the background in packet tracer (Shift+I).
+5. Optional: if you wish to have a black background download the black_background.jpg and set it as the background in packet tracer (Shift+I).
 
 Enjoy
