@@ -6,4 +6,5 @@ A repository to support dark mode on Packet Tracer for linux.
 3. Replace this art with the files given in the repo
 4. Startup packet tracer and, go to preferences (Ctrl+R), set the color scheme to No Theme
 5. Optional: if you wish to have a black background download the given image and set it as the background in packet tracer (Shift+I).
+
 Enjoy
